@@ -2,7 +2,7 @@
 
 Welcome to the Mapty App project! This web application allows you to track your workouts by recording your location, distance, time, and other metrics using the browser's built-in geolocation and local storage APIs. You can create a new workout by selecting the type of activity (running or cycling), entering the workout details, and clicking on the map to set the starting and ending points of your workout.
 
-#live demo
+# live demo
 - [👉Live demo👈](https://youssef-ashraf-ramadan.github.io/Mapy-App/)
 
 ## Features
